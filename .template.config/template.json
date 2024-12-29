@@ -8,14 +8,14 @@
   "classifications": [ "Common", "Solution" ],
   
   // The name for the template. This is displayed as the template name when using dotnet new and Visual Studio.
-  "name": "Rebel Framework Casual Project Template",
+  "name": "Rebel Framework Empty Project Template",
   
   // A unique name for this template
-  "identity": "rbfx.template.casual",
+  "identity": "rbfx.template.empty",
 
   // A name for selecting the template in CLI environment. 
   // This is the name shown as Short Name in dotnet new list of templates, and is the name to use to run this template.
-  "shortName": "rbfx.casual",
+  "shortName": "rbfx.empty",
 
   // The name in the source tree to replace with the name the user specifies.
   // The value to be replaced with can be given using the -n --name options while running a template.

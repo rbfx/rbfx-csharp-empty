@@ -6,11 +6,11 @@
     <PackageReadmeFile>./README.md</PackageReadmeFile>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageIcon>./content/Content/Common/Data/Images/Splash.png</PackageIcon>
-    <PackageId>rbfx.template.casual</PackageId>
+    <PackageId>rbfx.template.empty</PackageId>
     <NoDefaultExcludes>true</NoDefaultExcludes>
-    <Title>Rebel Framework Casual Project Template</Title>
+    <Title>Rebel Framework Empty Project Template</Title>
     <Authors>rbfx</Authors>
-    <Description>Templates to use when creating a casual game using Rebel Framework.</Description>
+    <Description>Templates to use when creating a game using Rebel Framework.</Description>
     <PackageTags>dotnet-new;templates;rbfx</PackageTags>
     <TargetFramework>net8.0</TargetFramework>
 
