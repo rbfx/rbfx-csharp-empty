@@ -1,16 +1,16 @@
 # Rebel Framework Empty Project Template
 
-## Install the Casual Project Template:
+## Install the Empty Project Template:
 
 Open your terminal or command prompt.
 
-Use the following command to install the rbfx.template.casual template package from NuGet:
+Use the following command to install the rbfx.template.empty template package from NuGet:
 
 ```
 dotnet new install rbfx.template.empty
 ```
 
-This command will download and install the template package. If you want to install a specific version, you can specify it using the format rbfx.template.casual::<package-version>.
+This command will download and install the template package. If you want to install a specific version, you can specify it using the format rbfx.template.empty::<package-version>.
 
 ## Create a New Solution Using the Installed Template:
 
@@ -24,7 +24,7 @@ dotnet new rbfx-empty -n MyAwesomeGame
 
 Replace MyAwesomeGame with your desired solution name.
 
-This command will create a new solution with the necessary project structure and files based on the Casual template.
+This command will create a new solution with the necessary project structure and files based on the Empty template.
 
 ## Explore and Customize:
 
